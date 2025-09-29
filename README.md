@@ -116,10 +116,10 @@ Example entries:
 
 ### Errors
 
-* Invalid symbol entered
+* Invalid side 
 ![alt text](imgs/Error.png)
 
-* Insufficient USDT balance
+* Invalid Symbol
 ![alt text](imgs/Error1.png)
 
 * Stop-Limit order would immediately trigger
