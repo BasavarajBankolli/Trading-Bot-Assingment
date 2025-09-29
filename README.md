@@ -107,7 +107,8 @@ Example entries:
 2025-09-29 10:15:33 | ERROR | Insufficient balance
 ```
 
-* **Logfile.png** shows sample log entries for request, response, and error events
+* shows sample log entries for request, response, and error events
+![alt text](imgs/Logfile.png)
 
 ---
 
@@ -115,33 +116,42 @@ Example entries:
 
 ### Errors
 
-* **Error.png** → Invalid symbol entered
-* **Error1.png** → Insufficient USDT balance
-* **Error StopLimit.png** → Stop-Limit order would immediately trigger
+* Invalid symbol entered
+![alt text](imgs/Error.png)
+
+* Insufficient USDT balance
+![alt text](imgs/Error1.png)
+
+* Stop-Limit order would immediately trigger
+![alt text](<imgs/Error StopLimit.png>)
+
 
 ### Market Order
 
-* **market.png** → Market order placed by bot
-* **Market-Bina.png** → Binance response after executing Market order
+* Market order placed by bot
+![alt text](imgs/market.png)
+
+* Binance response after executing Market order
+![alt text](imgs/Market-Bina.png)
+
 
 ### Limit Order
 
-* **Limit.png** → Limit order placed by bot
-* **Limit-Bina.png** → Binance response after executing Limit order
+* Limit order placed by bot
+![alt text](imgs/Limit.png)
+* Binance response after executing Limit order
+![alt text](imgs/Limit-Bina.png)
+
 
 ### Stop-Limit Order
 
-* **StopLimit.png** → Stop-Limit order placed by bot
-* **StopLimit-Bina.png** → Binance response after executing Stop-Limit order
+* Stop-Limit order placed by bot
+![alt text](imgs/StopLimit.png)
+* Binance response after executing Stop-Limit order
+![alt text](imgs/StopLimit-Bina.png)
 
 ---
 
-## Future Improvements
 
-* Add Take-Profit and Stop-Market order support
-* Implement automated trading strategies (grid, scalping, hedging)
-* Integrate Telegram or Discord notifications
-* Dockerize for deployment
-
----
+This is about Trading Bot
 
