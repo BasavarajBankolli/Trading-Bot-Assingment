@@ -145,10 +145,3 @@ Example entries:
 
 ---
 
-This README is **structured, professional, and user-friendly**, mapping each image to its feature or error scenario.
-
----
-
-If you want, I can **also create a version with embedded images in Markdown**, so that the screenshots actually appear inline under each feature/error section for a more visual guide.
-
-Do you want me to do that next?
