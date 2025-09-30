@@ -48,8 +48,8 @@ Trading Bot/
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/trading-bot.git
-cd trading-bot
+git clone https://github.com/BasavarajBankolli/Trading-Bot-Assingment
+cd Trading-Bot-Assignment
 ```
 
 2. Install dependencies
